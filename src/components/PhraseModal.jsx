@@ -81,7 +81,7 @@ onClose();
        className="absolute right-3 top-3 z-20 flex h-9 w-9 items-center justify-center border border-neutral-200 bg-white text-neutral-600 transition-all duration-300 hover:border-neutral-950 hover:bg-neutral-950 hover:text-white sm:right-4 sm:top-4 sm:h-10 sm:w-10"
      > <i className="ri-close-line text-base sm:text-lg" /> </button>
 
-```
+
     <div className="flex min-h-0 flex-col overflow-y-auto">
       {/* Header */}
       <div className="border-b border-neutral-200 p-6 sm:p-8 lg:p-10">

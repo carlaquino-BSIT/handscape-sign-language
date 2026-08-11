@@ -49,7 +49,7 @@ export default function AlphabetPage() {
               <span className="hidden h-px w-6 bg-neutral-300 sm:block" />
 
               <span className="font-mono text-[8px] uppercase tracking-[0.14em] text-neutral-400 sm:text-[9px]">
-                Signly / FSL
+                Handscape / FSL
               </span>
             </div>
           </header>

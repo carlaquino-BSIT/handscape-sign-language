@@ -39,7 +39,7 @@ export default function WordsPage() {
               Back home{" "}
             </Link>
             <span className="font-mono text-[8px] uppercase tracking-[0.14em] text-neutral-400 sm:text-[9px]">
-              Signly / FSL
+              Handscape / FSL
             </span>
           </header>
           {/* Hero */}
